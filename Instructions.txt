@@ -1,5 +1,0 @@
-These are some
-instructions on how to use
-git as a perfect repository for simple
-tasks
-
